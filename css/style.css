@@ -1,0 +1,17 @@
+h2 {
+	color: #00008b;
+	background-color: red;
+}
+.green-text {
+	color: green;
+}
+h1 {
+	color: blueviolet;
+}
+
+@media (orientation: landscape) {
+	h2 {
+		color: brown;
+		background-color: cadetblue;
+	}
+}
